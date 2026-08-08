@@ -11,3 +11,7 @@ learning C++<br>i want to make an operating system almost from scratch<br>(so no
 
 ---
 [![](https://komarev.com/ghpvc/?username=HelloFromFlow&icon=0&color=0)](https://visitcount.itsvg.in)
+
+-------------------
+
+so how do i learn assembly again?
