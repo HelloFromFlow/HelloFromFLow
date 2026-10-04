@@ -14,4 +14,8 @@ learning C++<br>i want to make an operating system almost from scratch<br>(so no
 
 -------------------
 
-so how do i learn assembly again?
+
+
+
+
+so how do i learn assembly
